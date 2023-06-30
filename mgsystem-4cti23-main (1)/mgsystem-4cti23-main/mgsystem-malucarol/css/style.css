@@ -1,0 +1,38 @@
+body{
+    background: #f2f2f2;
+}
+header{
+    background-color: #f37520;
+    min-height: 65px;
+
+}
+header nav{
+color: #fff;
+
+}
+main{
+    height: calc(100vh - 153px);
+
+
+}
+footer{
+     background-color: #454545;
+     padding: 2rem;
+     
+
+}
+nav{
+     background-color: #ededed;
+
+}
+
+.login{
+
+    background: #f4f4f4ff;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
